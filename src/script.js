@@ -13,7 +13,7 @@ document.querySelector('#phone-checkbox')
     phoneField.required = !isPhoneRequired
     isPhoneRequired = !isPhoneRequired
   })
-git
+
 document.querySelector('button[type="submit"]')
   .addEventListener('click', function(event) {
     event.preventDefault()
